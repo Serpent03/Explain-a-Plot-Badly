@@ -313,5 +313,83 @@
     "id": 57,
     "movie_name": "Full Metal Jacket",
     "plot": "Drill sergeant tells a private that he's so ugly he could be a modern art masterpiece."
-  }
+  },
+      {
+        "id": 58,
+        "movie_name": "Harry Potter",
+        "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
+        
+        
+    },
+    {
+        "id":59,
+        "movie_name":"Twilight",
+        "plot":"A love triangle between an eighteen year old girl, a hundred year old guy and a dog"
+    },
+    {
+        "id":60,
+        "movie_name":"The Maze",
+        "plot":"Perfectly pleasant society turns to chaos by the intoduction of a female"
+    },
+    {
+        "id":61,
+        "movie_name":"The Matrix",
+        "plot":"Depressed office worker joins a cult and destabilizes the government"
+    },
+    {
+        "id":62,
+        "movie_name":"Frozen",
+        "plot":"After the death of lead actress, a young socialite causes millions in property damage"
+    },
+    {
+        "id":63,
+        "movie_name":"Star Wars - The Force Awakens",
+        "plot":"Emo teen can't live up to grandfathers legacy. Takes it out on dad"
+    },
+    {
+        "id":64,
+        "movie_name":"James Bond",
+        "plot":"An Alcoholic orphan and his boss burn down his family home"
+    },
+    {
+        "id":65,
+        "movie_name":"Avatar",
+        "plot":"Cultural appropriation in space"
+    },
+    {
+        "id":66,
+        "movie_name":"Taken",
+        "plot":"A dad has to go pick up his daughter"
+    },
+    {
+        "id":67,
+        "movie_name":"Spiderman",
+        "plot":"A Young man forcibly binds other men and photographs them for money"
+    },
+    {
+        "id":68,
+        "movie_name":"Mean Girls",
+        "plot":"She started wearing less and going out more"
+    },
+    {
+        "id":69,
+        "movie_name":"Aladdin",
+        "plot":"A beautiful princess gets catfished"
+    },
+    {
+        "id":70,
+        "movie_name":"The Notebook",
+        "plot":"Man builds house, bangs average girl till ex comes back before her alzheimer's kicks in"
+    },
+    {
+        "id":71,
+        "movie_name":"The Matrix",
+        "plot":"Depressed office worker joins a cult and destabilizes the government"
+    },
+    {
+        "id":72,
+        "movie_name":"Gumnammi",
+        "plot":"this movie is based on real life freedom fighter Subhash chandra bose"
+    }
+
 ]
