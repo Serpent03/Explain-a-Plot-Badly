@@ -390,6 +390,11 @@
         "id":72,
         "movie_name":"Gumnammi",
         "plot":"this movie is based on real life freedom fighter Subhash chandra bose"
+    },
+    {
+      "id":73,
+      "movie_name":"Titanic",
+      "plot":"Everyone tries ice-bucket challenge"
     }
 
 ]
