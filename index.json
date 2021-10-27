@@ -394,12 +394,21 @@
     {
       "id":73,
       "movie_name":"Titanic",
-      "plot":"Everyone tries ice-bucket challenge"
+      "plot":"Everyone tries the ice-bucket challenge"
     },
    {
       "id":74,
       "movie_name":"sooryawansham",
       "plot":"son wants to make his father proud but ends up almost killing him"
+    },
+    {
+        "id":75,
+        "movie_name":"Follow Me Boys",
+        "plot":"Old man leads a troop of Boy Scouts to camp and ends up forcing the US military to surrender"
+    },
+    {
+        "id":76,
+        "movie_name":"The Lego Movie",
+        "plot":"A very boring man thinks everything is awesome when, in fact, everything is not awesome. Then everything becomes awesome."
     }
-
 ]
