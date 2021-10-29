@@ -400,6 +400,11 @@
       "id":74,
       "movie_name":"sooryawansham",
       "plot":"son wants to make his father proud but ends up almost killing him"
+    },
+    {
+      "id":75,
+      "movie_name":"Alien",
+      "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
     }
 
 ]
