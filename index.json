@@ -500,6 +500,11 @@
       "movie_name":"sooryawansham",
       "plot":"son wants to make his father proud but ends up almost killing him"
     },
+  {
+      "id":75,
+      "movie_name":"Bird Box",
+      "plot":"if you see it, you die."
+  },
     {
       "id":75,
       "movie_name":"Alien",
