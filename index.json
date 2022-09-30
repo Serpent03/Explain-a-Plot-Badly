@@ -509,5 +509,10 @@
       "id":75,
       "movie_name":"Alien",
       "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
+    },
+    {
+      "id":76,
+      "movie_name":"Captain America: Civil War",
+      "plot":"Two Super Soldiers beat an Orphan."
     }
 ]
