@@ -536,6 +536,12 @@
     "plot": "angry bird"
   },
 
+{
+    "id": 77,
+    "movie_name": "Ironman",
+    "plot": " Starts a war"
+  },
+
     {
     "id": 80,
       "movie_name": "Mission Mangal",
@@ -551,8 +557,9 @@
   {
       "id":745,
       "movie_name":"Creature 3D",
-      "plot":"An Creature from the Jungle kills enocent people."
+      "plot":"An Creature from the Jungle kills innocent people."
     }
+
 
 
 ]
