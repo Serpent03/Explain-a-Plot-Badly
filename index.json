@@ -509,5 +509,10 @@
       "id":75,
       "movie_name":"Alien",
       "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
+    },
+   {
+      "id":76,
+      "movie_name":"Be Your Self",
+      "plot":"Whole College life of four roommates"
     }
 ]
