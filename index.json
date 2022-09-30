@@ -509,5 +509,10 @@
       "id":75,
       "movie_name":"Alien",
       "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
+    },
+{
+      "id":76,
+      "movie_name":" The Usual Suspects",
+      "plot":"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
     }
 ]
