@@ -511,8 +511,15 @@
       "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
     }
 {
+
     "id": 78,
     "movie_name": "Frozen",
     "plot": "After the death of lead actress, a young socialite causes millions in property damage"
   },
+
+    "id": 76,
+    "movie_name": "Angry bird",
+    "plot": "angry bird"
+  }
+
 ]
