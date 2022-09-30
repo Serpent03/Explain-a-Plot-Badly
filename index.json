@@ -516,11 +516,17 @@
       "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
     },
 
+   {
+      "id":76,
+      "movie_name":"Be Your Self",
+      "plot":"Whole College life of four roommates"
+    },
+
     {
       "id":76,
       "movie_name":"Captain America: Civil War",
       "plot":"Two Super Soldiers beat an Orphan."
-    }
+    },
 
 {
 
@@ -581,6 +587,7 @@
       "id":745,
       "movie_name":"Creature 3D",
       "plot":"An Creature from the Jungle kills innocent people."
+
     }
 
 
