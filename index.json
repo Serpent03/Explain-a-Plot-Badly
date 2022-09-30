@@ -528,17 +528,25 @@
     "movie_name": "Frozen",
     "plot": "After the death of lead actress, a young socialite causes millions in property damage"
   },
+
 {
+
     "id": 76,
     "movie_name": "Angry bird",
     "plot": "angry bird"
   },
 
+    {
+    "id": 80,
+      "movie_name": "Mission Mangal",
+      "plot": "saving lpg hepled in getting to another planet"
+    },
+
 {
     "id": 78,
     "movie_name": "Harry Potter",
     "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
-  }
+  },
 
   {
       "id":745,
