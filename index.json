@@ -4,6 +4,11 @@
     "movie_name": "Harry Potter",
     "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
   },
+    {
+    "id": 1111,
+    "movie_name": "Ram Lakhan",
+    "plot": "Aurat ka sangharsh uske aasuon se nah, uske nischay se hota hai"
+  },
   {
     "id": 2,
     "movie_name": "Twilight",
@@ -509,22 +514,37 @@
       "id":75,
       "movie_name":"Alien",
       "plot":"Man has gastrointestinal blowout on mining trip, bringing harm to entire crew."
+    },
+
+    {
+      "id":76,
+      "movie_name":"Captain America: Civil War",
+      "plot":"Two Super Soldiers beat an Orphan."
     }
+
 {
 
     "id": 78,
     "movie_name": "Frozen",
     "plot": "After the death of lead actress, a young socialite causes millions in property damage"
   },
-
+{
     "id": 76,
     "movie_name": "Angry bird",
     "plot": "angry bird"
   },
+
 {
     "id": 78,
     "movie_name": "Harry Potter",
     "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
   }
+
+  {
+      "id":745,
+      "movie_name":"Creature 3D",
+      "plot":"An Creature from the Jungle kills enocent people."
+    }
+
 
 ]
