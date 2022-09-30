@@ -548,6 +548,13 @@
 
 {
     "id": 77,
+    "movie_name": "Harry Potter",
+    "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
+  },
+
+
+{
+    "id": 77,
     "movie_name": "Ironman",
     "plot": " Starts a war"
   },
@@ -569,6 +576,7 @@
       "movie_name":"Creature 3D",
       "plot":"An Creature from the Jungle kills innocent people."
     }
+
 
 
 
