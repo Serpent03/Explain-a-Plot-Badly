@@ -602,7 +602,12 @@
       "movie_name":"Kuch Kuch Hota Hai",
       "plot":"A 8 year old girl plays match maker to her father and her college best friend."
 
-    }
+    },
+     {
+    "id": 80,
+      "movie_name": "The Journey 2 - Mysterious Island",
+      "plot": "Exploring the mysterious island to find a loved one and travel back home"
+    },
 
 
 ]
