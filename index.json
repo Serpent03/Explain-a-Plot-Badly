@@ -617,6 +617,12 @@
     "id": 82,
       "movie_name": "Seetha Raamam",
       "plot": "Back and forth letters make an army major and a queen fall in love."
-    }
+    },
+
+	{
+	    "id": 83,
+	    "movie_name": "Ekkadiki",
+	    "plot": "Arjun falls in love with a woman who reminds him of his former lover who leaves him without giving any reason. When he goes to look for her, he finds out that she was possessed by a spirit, Amala."
+   	},
 
 ]
