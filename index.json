@@ -44,6 +44,11 @@
     "movie_name": "Avatar",
     "plot": "Cultural appropriation in space"
   },
+	 {
+    "id": 169,
+    "movie_name": "Drishyam",
+    "plot": "Hiding reality from police for self safety"
+  },
   {
     "id": 9,
     "movie_name": "Taken",
