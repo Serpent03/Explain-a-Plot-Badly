@@ -629,10 +629,17 @@
 	    "movie_name": "Ekkadiki",
 	    "plot": "Arjun falls in love with a woman who reminds him of his former lover who leaves him without giving any reason. When he goes to look for her, he finds out that she was possessed by a spirit, Amala."
    	},
+
 {
 	    "id": 284,
 	    "movie_name": "vikant rona",
 	    "plot": "Vikram rona who is a police officer is trying to find a serial killer who kills childrens."
    	},
+
+	{
+	    "id": 84,
+	    "movie_name": "The Dark Knight",
+	    "plot": "A wealthy orphan goes up against a clown terrorizing his city."
+	}
 
 ]
