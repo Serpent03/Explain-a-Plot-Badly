@@ -641,5 +641,10 @@
 	    "movie_name": "The Dark Knight",
 	    "plot": "A wealthy orphan goes up against a clown terrorizing his city."
 	}
+        {
+	    "id": 85,
+	    "movie_name": "sex education",
+	    "plot": "The series follows the lives of the students, staff and parents of the fictional Moordale Secondary School as they contend with various personal dilemmas, often related to sexual intimacy"
+	},
 
 ]
